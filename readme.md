@@ -1,6 +1,6 @@
 Interactive Navigation Menu
 
-This repository contains the source code for an Interactive Navigation Menu developed as part of my personal freelancing services website. The navigation menu enhances user experience with dynamic styling and interactivity, ensuring smooth and intuitive navigation across the site.
+This repository contains the source code for an Interactive Navigation Menu developed during my Web Development internship at Prodigy InfoTech. The navigation menu enhances user experience with dynamic styling and interactivity, ensuring smooth and intuitive navigation across the site.
 
 Features -
 
